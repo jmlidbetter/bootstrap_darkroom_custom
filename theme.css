@@ -14,8 +14,13 @@ body {
     flex-grow: 1;
     justify-content: end;
     flex-direction: column;
+    font-size: 0.8em;
 }
 
 #qsearchInput {
+    min-width: 180px;
+}
+
+#quickconnect {
     min-width: 180px;
 }
