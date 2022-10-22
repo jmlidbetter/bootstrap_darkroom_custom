@@ -24,3 +24,24 @@ body {
 #quickconnect {
     min-width: 180px;
 }
+
+.navbar {
+    padding: 0.5rem 1rem;
+}
+
+#theImage {
+    padding-top: 1rem;
+}
+
+#theImageInfos td {
+    color: #1a1a1a;
+    padding: 0.3rem;
+}
+
+#theImageInfos th{
+    padding: 0.3rem;
+}
+
+#theImageInfos table {
+    font-size: 0.7rem;
+}
